@@ -1,0 +1,129 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Fiksi",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "title": "How Innovation Works",
+      "author": "Matt Ridley",
+      "category": "Teknologi",
+      "cover": "https://m.media-amazon.com/images/I/41+9XUzKxaL._SY445_SX342_.jpg",
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "title": "History of the World Map by Map",
+      "author": "DK",
+      "category": "Sejarah",
+      "cover": "https://m.media-amazon.com/images/I/81ZyeQhclxL._SY385_.jpg",
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "title": "All About the Solar System for Kids",
+      "author": "Dr. Bruce Betts",
+      "category": "Anak",
+      "cover": "https://m.media-amazon.com/images/I/91ua+Mjk2LL._SY342_.jpg",
+      "rating": 4.4
+    },
+    {
+      "id": "5",
+      "title": "Lone Wolf and Cub Deluxe Edition",
+      "author": "Kazuo Koike",
+      "category": "Komik",
+      "cover": "https://m.media-amazon.com/images/I/512wCDGgW-L._SY445_SX342_.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": "6",
+      "title": "Voices of the Saints",
+      "author": " Bert Ghezzi",
+      "category": "Sains",
+      "cover": "https://m.media-amazon.com/images/I/81mp24PLQWL._SY466_.jpg",
+      "rating": 5
+    }
+  ],
+  "transactions": [],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "Andi",
+      "bookId": 1,
+      "comment": "Buku ini sangat bagus dan informatif.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Rina",
+      "bookId": 2,
+      "comment": "Sangat inspiratif.",
+      "rating": 4
+    },
+    {
+      "id": "606e",
+      "bookId": 1,
+      "name": "tri",
+      "comment": "bagus",
+      "rating": 5
+    }
+  ],
+  "notifications": [
+    {
+      "id": "160d",
+      "title": "Reservasi Ruang Berhasil",
+      "message": "Reservasi Anda untuk Ruang A pada 2025-07-11 pukul 10:00 - 12:00 telah dikonfirmasi.",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "af0f",
+      "title": "Reservasi Ruang Berhasil",
+      "message": "Reservasi Anda untuk Ruang C pada 2025-07-11 pukul 08:00 - 10:00 telah dikonfirmasi.",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "f104",
+      "title": "Reservasi Ruang Berhasil",
+      "message": "Reservasi Anda untuk Ruang B pada 2025-01-08 pukul 13:00 - 15:00 telah dikonfirmasi.",
+      "date": "2025-07-11"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "3158",
+      "name": "tri",
+      "date": "2025-07-11",
+      "time": "10:00 - 12:00",
+      "room": "Ruang A"
+    },
+    {
+      "id": "d499",
+      "name": "auorra",
+      "date": "2025-07-11",
+      "time": "08:00 - 10:00",
+      "room": "Ruang C"
+    },
+    {
+      "id": "9aae",
+      "name": "Yoona",
+      "date": "2025-01-08",
+      "time": "13:00 - 15:00",
+      "room": "Ruang B"
+    }
+  ],
+  "borrowed": [],
+  "members": [
+    {
+      "id": "d713",
+      "name": "tri",
+      "email": "tri@gmail.com",
+      "category": "VIP",
+      "joinDate": "2025-07-11"
+    }
+  ]
+}
