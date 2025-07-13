@@ -47,6 +47,14 @@
       "category": "Sains",
       "cover": "https://m.media-amazon.com/images/I/81mp24PLQWL._SY466_.jpg",
       "rating": 5
+    },
+    {
+      "id": "a669",
+      "title": "History of the World Map by Map",
+      "author": "DK",
+      "category": "Sejarah",
+      "cover": "https://m.media-amazon.com/images/I/81ZyeQhclxL._SY385_.jpg",
+      "rating": 4.3
     }
   ],
   "transactions": [],
@@ -71,6 +79,13 @@
       "name": "tri",
       "comment": "bagus",
       "rating": 5
+    },
+    {
+      "id": "920c",
+      "bookId": "2",
+      "name": "aca",
+      "comment": "buku  nya bagus sangat memberi inspirasi ",
+      "rating": 4
     }
   ],
   "notifications": [
@@ -91,6 +106,12 @@
       "title": "Reservasi Ruang Berhasil",
       "message": "Reservasi Anda untuk Ruang B pada 2025-01-08 pukul 13:00 - 15:00 telah dikonfirmasi.",
       "date": "2025-07-11"
+    },
+    {
+      "id": "d1a8",
+      "title": "Reservasi Ruang Berhasil",
+      "message": "Reservasi Anda untuk Ruang A pada 2025-04-08 pukul 15:00 - 17:00 telah dikonfirmasi.",
+      "date": "2025-07-13"
     }
   ],
   "reservations": [
@@ -114,9 +135,25 @@
       "date": "2025-01-08",
       "time": "13:00 - 15:00",
       "room": "Ruang B"
+    },
+    {
+      "id": "8dd2",
+      "name": "audiya varischa",
+      "date": "2025-04-08",
+      "time": "15:00 - 17:00",
+      "room": "Ruang A"
     }
   ],
-  "borrowed": [],
+  "borrowed": [
+    {
+      "id": "dc30",
+      "title": "History of the World Map by Map",
+      "author": "DK",
+      "category": "Sejarah",
+      "cover": "https://m.media-amazon.com/images/I/81ZyeQhclxL._SY385_.jpg",
+      "rating": 4.3
+    }
+  ],
   "members": [
     {
       "id": "d713",
@@ -124,6 +161,13 @@
       "email": "tri@gmail.com",
       "category": "VIP",
       "joinDate": "2025-07-11"
+    },
+    {
+      "id": "7d53",
+      "name": "yona",
+      "email": "yona@gmail.com",
+      "category": "Reguler",
+      "joinDate": "2025-07-13"
     }
   ]
 }
